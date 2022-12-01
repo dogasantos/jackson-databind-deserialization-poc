@@ -1,0 +1,11 @@
+{
+	"something": 123,
+	"obj":[ "com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl",
+	{
+		 "transletBytecodes" : [ "base64encoded payload class" ],
+		 "transletName" : "foo",
+		 "outputProperties" : { }
+
+	}
+	]
+}
